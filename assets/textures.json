@@ -1,0 +1,13 @@
+{
+    "player":{
+        "idle":{
+            "left": "\\assets\\Player_L_Idle_",
+            "right": "\\assets\\Player_R_Idle_"
+        },
+        "run":{
+            "left": "\\assets\\Player_L_Run_",
+            "right": "\\assets\\Player_R_Run_"
+        }
+        
+    }
+}
